@@ -33,5 +33,7 @@ public class java1 {
         System.out.println("平均值:"+average);
         System.out.println("平均值2:"+average);
         System.out.println("平均值2:"+average);
+        System.out.println("平均值3:"+average);
+        System.out.println("平均值3:"+average);
     }
 }
