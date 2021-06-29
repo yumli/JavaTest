@@ -35,8 +35,7 @@ public class java1 {
         System.out.println("平均值2:"+average);
         System.out.println("平均值6:"+average);
         System.out.println("平均值5:"+average);
-        System.out.println("平均值12345:"+average);
-
+        System.out.println("平均值0000000:"+average);
 
     }
 }
