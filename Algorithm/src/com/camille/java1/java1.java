@@ -31,5 +31,7 @@ public class java1 {
         System.out.println("最大值:"+maxvalue);
         System.out.println("最小值:"+minvalue);
         System.out.println("平均值:"+average);
+        System.out.println("平均值2:"+average);
+        System.out.println("平均值2:"+average);
     }
 }
